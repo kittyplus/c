@@ -1,0 +1,14 @@
+#chat-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  #chat-history {
+    height: 400px;
+    overflow-y: auto;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+  }
